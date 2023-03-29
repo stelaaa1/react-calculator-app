@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stelaaa1/reactjs-calculator.git/static/css/main.509e078d.css",
+    "main.js": "/stelaaa1/reactjs-calculator.git/static/js/main.db37a331.js",
+    "index.html": "/stelaaa1/reactjs-calculator.git/index.html",
+    "main.509e078d.css.map": "/stelaaa1/reactjs-calculator.git/static/css/main.509e078d.css.map",
+    "main.db37a331.js.map": "/stelaaa1/reactjs-calculator.git/static/js/main.db37a331.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.509e078d.css",
+    "static/js/main.db37a331.js"
+  ]
+}
