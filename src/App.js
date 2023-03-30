@@ -29,7 +29,7 @@ const App=()=>{
     <form>
         <input type="text" value={result}/>
         </form>
-        <div class="keypad">
+        <div className="keypad">
             <button className="highlight" onClick={clear} id="clear">Clear</button>
             <button className="highlight" onClick={backspace} id="backspace">C</button>
             <button className="highlight" name="/" onClick={handleClick}>&divide;</button>

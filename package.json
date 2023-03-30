@@ -1,8 +1,9 @@
 {
+  "homepage": "https://stelaaa1.github.io/reactjs-calculator",
   "name": "calculator",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://github.com/stelaaa1/reactjs-calculator.git",
+  
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -19,6 +20,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy":"gh-pages -d build"
+    
   },
   "eslintConfig": {
     "extends": [
